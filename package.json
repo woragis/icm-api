@@ -1,0 +1,11 @@
+{
+  "name": "icm-membros-ebd",
+  "version": "1.0.0",
+  "description": "app created for a better organization of my local members",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "author": "woragis",
+  "license": "ISC"
+}
